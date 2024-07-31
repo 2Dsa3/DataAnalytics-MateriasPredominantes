@@ -23,7 +23,12 @@ El proyecto se estructura en los siguientes directorios y archivos:
 
 /DataAnalytics-MateriasPredominantes
 |-- data/ # Directorio para almacenar datos brutos y procesados
+
 |-- notebooks/ # Jupyter Notebooks para análisis exploratorio y visualización
+
+
 |-- src/ # Código fuente para análisis y procesamiento de datos
+
 |-- README.md # Archivo README con la descripción del proyecto
+
 |-- requirements.txt # Archivo con las dependencias necesarias para el proyecto
